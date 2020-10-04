@@ -11,6 +11,11 @@ print(64 + 32)
 
 # 2.- Do the same as the question one but this time use variables instead of # numbers.
 
+a = 64
+b = 32
+print(a + b)
+
+# another solution
 x = 64 + 32
 print(x)
 
